@@ -1,34 +1,50 @@
-<h1 align="center">Hey 👋, I'm Sujal Bhugul</h1>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=550&lines=Hey+there%2C+I'm+Sujal+Bhugul;Welcome+to+my+GitHub+Profile!" alt="Hey, I'm Sujal Bhugul" />
+</h1>
 
-<p align="center">
-  <strong>Full Stack Developer • MERN • Java • GenAI</strong>
+<p>
+  <strong>Full Stack Developer &bull; MERN &bull; Java &bull; GenAI</strong>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/Sujal2308">
-    <img src="https://komarev.com/ghpvc/?username=Sujal2308&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Sujal2308&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Sujal2308?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sujal2308?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Sujal2308?label=Followers&color=0284c7&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers"/>
   </a>
 </p>
 
-<p align="center">
-  I build scalable web applications, developer tools, and AI-powered products.<br/>
-  Currently focused on <b>Full Stack Development, DSA, and Generative AI.</b>
-</p>
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <ul>
+        <li><b>Full-Stack Engineering:</b> Crafting modern web architectures with <b>MERN & Next.js</b>.</li>
+        <li> <b>DSA & Problem Solving:</b> Strong algorithmic foundation in <b>Java</b>.</li>
+        <li><b>GenAI & LLMs:</b> Building intelligent applications, <b>RAG pipelines & AI agents</b>.</li>
+        <li><b>Core Philosophy:</b> Scalable backends, high performance & clean code.</li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="380" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 About Me
+## 🧔🏻‍♂️ About Me
 
-- 🎓 **Computer Science Graduate — 2026**
-- 💻 Full Stack Developer focused on **MERN & Python**
-- 🧠 Strengthening **Java, DSA & problem solving**
-- 🤖 Exploring **GenAI, LLMs, RAG & LangChain**
-- 🔨 I enjoy turning ideas into **real-world products**
-- 🌱 Currently learning **Next.js, TypeScript, FastAPI & GenAI**
-- ⚡ Built projects across **social platforms, blockchain, NLP & AI**
+> _“Transforming complex ideas into seamless, scalable, and intelligent digital experiences.”_
+
+I am a **Computer Science Graduate (Class of 2026)** and a passionate **Full Stack Software Engineer** dedicated to building modern web architectures, scalable backend systems, and next-generation AI-powered products.
+
+My core expertise revolves around the **MERN stack**, **Java**, and **Python**, reinforced with a rigorous foundation in **Data Structures, Algorithms, and System Design**. Beyond traditional full-stack development, I am actively immersed in **Generative AI** — crafting intelligent applications leveraging **LLMs, RAG pipelines, LangChain, and modern AI APIs**.
+
+From architecting decentralized blockchain solutions and NLP-driven developer extensions to engineering collaborative platforms, I love taking ambitious ideas from concept to production with clean code and high performance.
+
+🌱 **Currently Expanding:** `Next.js` &bull; `TypeScript` &bull; `FastAPI` &bull; `Autonomous AI Agents`  
+🎯 **Core Focus:** `Full-Stack Architecture` &bull; `DSA & Problem Solving` &bull; `Generative AI Systems`
 
 ---
 
@@ -49,28 +65,23 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,bun,aws,kafka,rabbitmq,elasticsearch,grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="48" height="48" alt="Socket.io" title="Socket.io" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" width="48" height="48" alt="JWT" title="JWT" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97706" width="48" height="48" alt="Claude AI" title="Claude / Anthropic" />
 </p>
-
-### AI / GenAI
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`LLMs` • `RAG` • `LangChain` • `Prompt Engineering` • `AI APIs`
 
 ---
 
@@ -78,48 +89,48 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 DevMate
+### 1️⃣ [<u>DevMate</u>](https://github.com/Sujal2308/DevMate)
 
 Developer-focused social platform for developers to connect, share knowledge, and collaborate.
 
-**Tech:**
+**Tech:**  
 `React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⛓️ Sentinel
+### 2️⃣ [<u>Sentinel</u>](https://github.com/SentinelDApp/Sentinel)
 
 Blockchain-powered logistics tracking system designed to improve supply-chain transparency and traceability.
 
-**Tech:**
+**Tech:**  
 `Blockchain` `Polygon` `Smart Contracts` `React` `Node.js` `IPFS`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Outliner
+### 3️⃣ [<u>Outliner</u>](https://github.com/Sujal2308/Outliner)
 
 NLP-powered Chrome extension that extracts important keywords from online content.
 
-**Tech:**
+**Tech:**  
 `JavaScript` `NLP` `Chrome APIs` `Textrazor`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Summarizer
+### 4️⃣ [<u>AI Summarizer</u>](https://github.com/Sujal2308/outliner-extension)
 
 AI-powered Chrome extension for summarizing web content using modern LLM APIs.
 
-**Tech:**
+**Tech:**  
 `JavaScript` `Gemini API` `Chrome APIs`
 
 </td>
@@ -144,31 +155,22 @@ AI-powered Chrome extension for summarizing web content using modern LLM APIs.
 
 ---
 
-## 💡 What I'm Working On
-
-```text
-Full Stack Development  ████████████████████  90%
-Java + DSA              █████████████████░░░  80%
-GenAI / LLMs            ███████████████░░░░░  70%
-System Design            ████████████░░░░░░░░  60%
-Cloud & DevOps           ██████████░░░░░░░░░░  50%
-```
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://portfolio23-eta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/sujal23/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Sujal2308/">
+  <a href="https://leetcode.com/u/sujalbhugul/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="mailto:Sujal230885@gmail.com">
+  <a href="mailto:sujalbhugul08@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/Sujal2308/">
+  <a href="https://www.instagram.com/sujalbhugul/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
