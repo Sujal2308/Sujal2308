@@ -1,72 +1,184 @@
-<h1 align="center">Hi 👋, I'm Sujal Bhugul</h1>
-<h3 align="center">MERN Stack Developer | Aspiring Full Stack Engineer | 2026 CS Graduate</h3>
-
-<img align="right" alt="Coding Gif" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-
-- 🔭 I'm currently building full stack projects with the **MERN stack**
-- 🌱 I'm currently learning **Java (DSA), Next.js, TypeScript, FastAPI, and GenAI (LLMs, RAG, LangChain)**
-- 💬 Ask me about **DSA, React, Node.js, MySQL, MongoDB, Next.js**
-- ⚡ Fun fact: I've built projects across **social platforms, blockchain logistics, and NLP tooling**
-- 📫 Email: **Sujal230885@gmail.com**
-
-<br clear="right"/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sujal23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sujal2308" height="30" width="40" /></a>
-<a href="https://instagram.com/Sujal2308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujal2308" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Sujal2308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujal-bhugul" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
-
-<br/>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sujal2308&show_icons=true&theme=radical&count_private=true" alt="Sujal2308" width="49%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal2308&layout=compact&theme=radical" alt="Sujal2308" width="35%"/>
-</p>
-
-<p align="left">
-<img align="center" src="https://streak-stats.demolab.com/?user=Sujal2308&theme=radical" alt="Sujal2308" width="49%"/>
-</p>
-
-<p align="left">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sujal2308&theme=redical" alt="Sujal2308" width="97%"/>
-</p>
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Sujal2308&theme=radical&no-frame=true&row=1&column=7" alt="Sujal2308" />
-</p>
-
-<h3 align="left">🚀 Featured Projects:</h3>
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **DevMate** | A developer-focused social platform for connecting and collaborating | MERN, WebSockets, JWT |
-| **Sentinel** | Blockchain-based logistics tracking system for supply chain transparency | Blockchain, Node.js, React |
-| **Outliner** | NLP-powered Chrome extension for smart content summarization | JavaScript, NLP, Chrome APIs |
-
-<br/>
+<h1 align="center">Hey 👋, I'm Sujal Bhugul</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sujal2308&label=Profile%20Views&color=blueviolet&style=flat" alt="Sujal2308" />
+  <strong>Full Stack Developer • MERN • Java • GenAI</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sujal2308">
+    <img src="https://komarev.com/ghpvc/?username=Sujal2308&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Sujal2308?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sujal2308?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+</p>
+
+<p align="center">
+  I build scalable web applications, developer tools, and AI-powered products.<br/>
+  Currently focused on <b>Full Stack Development, DSA, and Generative AI.</b>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Computer Science Graduate — 2026**
+- 💻 Full Stack Developer focused on **MERN & Python**
+- 🧠 Strengthening **Java, DSA & problem solving**
+- 🤖 Exploring **GenAI, LLMs, RAG & LangChain**
+- 🔨 I enjoy turning ideas into **real-world products**
+- 🌱 Currently learning **Next.js, TypeScript, FastAPI & GenAI**
+- ⚡ Built projects across **social platforms, blockchain, NLP & AI**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify" />
+</p>
+
+### AI / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`LLMs` • `RAG` • `LangChain` • `Prompt Engineering` • `AI APIs`
+
+---
+
+## 🧩 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 DevMate
+
+Developer-focused social platform for developers to connect, share knowledge, and collaborate.
+
+**Tech:**
+`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind`
+
+</td>
+
+<td width="50%">
+
+### ⛓️ Sentinel
+
+Blockchain-powered logistics tracking system designed to improve supply-chain transparency and traceability.
+
+**Tech:**
+`Blockchain` `Polygon` `Smart Contracts` `React` `Node.js` `IPFS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Outliner
+
+NLP-powered Chrome extension that extracts important keywords from online content.
+
+**Tech:**
+`JavaScript` `NLP` `Chrome APIs` `Textrazor`
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Summarizer
+
+AI-powered Chrome extension for summarizing web content using modern LLM APIs.
+
+**Tech:**
+`JavaScript` `Gemini API` `Chrome APIs`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sujal2308&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal2308/Sujal2308/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujal2308/Sujal2308/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sujal2308/Sujal2308/output/github-contribution-grid-snake.svg" style="width: 100%;" />
+</picture>
+
+---
+
+## 💡 What I'm Working On
+
+```text
+Full Stack Development  ████████████████████  90%
+Java + DSA              █████████████████░░░  80%
+GenAI / LLMs            ███████████████░░░░░  70%
+System Design            ████████████░░░░░░░░  60%
+Cloud & DevOps           ██████████░░░░░░░░░░  50%
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujal23/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Sujal2308/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:Sujal230885@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/Sujal2308/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build. Break. Learn. Repeat."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
 </p>
